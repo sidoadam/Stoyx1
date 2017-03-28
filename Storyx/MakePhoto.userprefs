@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TakePhotoController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Scenario/Adventure1_4.cs" Line="50" Column="2" />
+      <File FileName="Assets/Scripts/TakePhotoController.cs" Line="33" Column="2" />
+      <File FileName="Assets/Scripts/PhysicalMissionScreenController.cs" Line="39" Column="25" />
+      <File FileName="Assets/Scripts/Scenario/Adventure1_7.cs" Line="47" Column="40" />
+      <File FileName="Assets/Scripts/Scenario/Adventure1_5.cs" Line="47" Column="40" />
+      <File FileName="Assets/Scripts/Scenario/Adventure1_6.cs" Line="47" Column="40" />
+      <File FileName="Assets/Scripts/Scenario/Adventure1_8.cs" Line="47" Column="40" />
+      <File FileName="Assets/Scripts/MainDataHolder.cs" Line="29" Column="27" />
+      <File FileName="Assets/Scripts/ShowAllPhotoManager.cs" Line="30" Column="46" />
+      <File FileName="Assets/Scripts/TextureLoaderController.cs" Line="19" Column="20" />
+      <File FileName="Assets/Scripts/Scenario/Adventure1_9.cs" Line="6" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
